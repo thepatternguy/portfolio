@@ -348,7 +348,7 @@ textarea:focus {
 }
 
 #email, #social-media, #behance {
-    width: 30%;
+    /* width: 30%;      Not needed, this is creating responsive issue */
     text-align: center !important;
     font-weight: 300;
 }
